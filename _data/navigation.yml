@@ -9,7 +9,7 @@ main:
     url: /about/
 
   - title: "Schedule"
-    url: /talks/    
+    url: /schedule/    
 
   - title: "Resources"
     url: /resources/    

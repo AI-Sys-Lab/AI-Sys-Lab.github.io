@@ -7,17 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-//This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-Registration
-======
-(3 units) Graduate level. A background in classical controls, linear algebra and state-space modeling is
-strongly recommended.
-
-Lectures
-======
-Tuesdays and Thursdays 12:00-13:30 ET, 01/08/2025 – 4/22/2025, GGBL 2147
-
 Course Description
 ======
 Data is vital in control systems. At bottom, data acquisition is essential for feedback in closed-loop
@@ -31,6 +20,34 @@ controls including classical system identification, machine learning, and deep l
 dynamical systems. We will conclude by exploring emerging trends such as physics-informed neural
 networks for controls. Examples that illustrate how to choose an appropriate learning strategy for a
 given problem will be drawn from various control applications.
+
+
+Registration
+======
+(3 units) Graduate level. A background in classical controls, linear algebra and state-space modeling is
+strongly recommended.
+
+Lectures
+======
+Tuesdays and Thursdays 12:00-13:30 ET, 01/08/2025 – 4/22/2025, DOW 1010.
+
+Instructor
+======
+Uduak Inyang-Udoh, udinyang@umich.edu
+
+Office hours: after each class - Tuesdays and Thursdays 14:00-15:00 ET, GGBL 3468.
+
+GSI
+======
+Yuxin Tong, yuxinton@umich.edu
+Office hours: Monday 13:30-14:30 ET, Wednesday 16:00-17:00 ET, Findley C, GGB.
+
+Grading
+======
+Homework Problems – 80%
+(Group) Project/Study – 20%
+Quizzes (optional) – 4% (Bonus points)
+
 
 Getting started
 ======

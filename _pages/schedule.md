@@ -1,6 +1,6 @@
 ---
 permalink: /schedule/
-title: "scheule"
+title: "schedule"
 modified: 2025-01-10
 ---
 

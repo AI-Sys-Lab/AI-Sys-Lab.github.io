@@ -5,11 +5,18 @@ permalink: /resources/
 author_profile: true
 ---
 
-In my journey of exploring and learning topics like robotics, optimization, control, and deep learning, I have encountered numerous invaluable resources. These include insightful YouTube videos and comprehensive blog posts that I have discovered and benefited from. 
+## Course Description
+-[Course Description](/files/Course Description W25 V2.pdf)
+	
 
-To share these execellent learning materials with others who are on a similar path, I have curated a list of these resources organized by topic as shown below.
+## Homework Problems
 
-## Paper
+-[Hwk1](/files/Hwk1.pdf)
+	- [Hwk1 Files](/files/Hwk1_files.zip)
+
+-[Hwk2](/files/Hwk2.pdf)
+	- [Hwk1 Files](/files/Hwk2_files.zip)
+
 
  - **Robotics Simulator**
 

@@ -11,7 +11,9 @@ author_profile: true
 
 ## Module 1: Data Analysis & Machine Learning Preliminaries
 - Topic 1: [Fourier Transforms and Its Applications](https://ai-sys-lab.github.io/files/Topic1 Fourier Transforms and Its Applications.pdf)
-	-Download [here](https://ai-sys-lab.github.io/files/Topic1_Slides.pdf)
+	
+	- Slides [here](https://ai-sys-lab.github.io/files/Topic1_Slides.pdf)
+
 - Topic 2: [Dimensionality Reduction](https://ai-sys-lab.github.io/files/Topic2 Dimensionality Reduction.pdf)
 
 ## Homework Problems

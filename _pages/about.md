@@ -33,20 +33,19 @@ Tuesdays and Thursdays 12:00-13:30 ET, 01/08/2025 – 4/22/2025, DOW 1010.
 
 Instructor
 ======
-Uduak Inyang-Udoh, udinyang@umich.edu
-
-Office hours: after each class - Tuesdays and Thursdays 14:00-15:00 ET, GGBL 3468.
+-Uduak Inyang-Udoh, udinyang@umich.edu
+-Office hours: after each class - Tuesdays and Thursdays 14:00-15:00 ET, GGBL 3468.
 
 GSI
 ======
-Yuxin Tong, yuxinton@umich.edu
-Office hours: Monday 13:30-14:30 ET, Wednesday 16:00-17:00 ET, Findley C, GGB.
+-Yuxin Tong, yuxinton@umich.edu
+-Office hours: Monday 13:30-14:30 ET, Wednesday 16:00-17:00 ET, Findley C, GGB.
 
 Grading
 ======
-Homework Problems – 80%
-(Group) Project/Study – 20%
-Quizzes (optional) – 4% (Bonus points)
+-Homework Problems – 80%
+-(Group) Project/Study – 20%
+-Quizzes (optional) – 4% (Bonus points)
 
 
 Getting started
